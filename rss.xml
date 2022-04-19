@@ -10,12 +10,40 @@
         </author>
         <description>2L</description>
         <language>zh-CN</language>
-        <pubDate>Mon, 18 Apr 2022 17:07:37 +0800</pubDate>
-        <lastBuildDate>Mon, 18 Apr 2022 17:07:37 +0800</lastBuildDate>
+        <pubDate>Tue, 19 Apr 2022 10:40:16 +0800</pubDate>
+        <lastBuildDate>Tue, 19 Apr 2022 10:40:16 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://example.com/2022/04/18/hello-world/</guid>
+            <guid isPermalink="true">http://example.com/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF%E4%B8%8D%E8%A7%81%E4%BA%86/</guid>
+            <title>为什么东西不见了</title>
+            <link>http://example.com/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF%E4%B8%8D%E8%A7%81%E4%BA%86/</link>
+            <pubDate>Tue, 19 Apr 2022 10:40:16 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;为什么我写的东西都不在这个文件夹&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%A0%86bug/</guid>
+            <title>为什么一堆bug</title>
+            <link>http://example.com/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%A0%86bug/</link>
+            <pubDate>Mon, 18 Apr 2022 23:11:25 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;本来想搞个主题，结果搞不了，为什么欸&lt;/p&gt;
+&lt;p&gt;&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;br /&gt;
+ 奇怪&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%81%E8%BF%99%E6%98%AF%E6%88%91%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+            <title>大家好！这是我第一篇文章</title>
+            <link>http://example.com/%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%81%E8%BF%99%E6%98%AF%E6%88%91%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+            <pubDate>Mon, 18 Apr 2022 17:44:17 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;我想摸鱼划水，不想上晚课。(⊙﹏⊙)&lt;/p&gt;
+&lt;p&gt;categories:&lt;br /&gt;
+[废文]&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/hello-world/</guid>
             <title>Hello World</title>
-            <link>http://example.com/2022/04/18/hello-world/</link>
+            <link>http://example.com/hello-world/</link>
             <pubDate>Mon, 18 Apr 2022 17:07:37 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
